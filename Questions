@@ -1,0 +1,8 @@
+\item How long (cumulative) have you spent on the code?
+*I spent around 15 hours on the code after getting the base game set up through AI and other sources. Creating a way to keep the ships in bound for the grid was difficult, and implementing the two-player mode was more complicated than I thought.*
+    \item What was the most time consuming part?
+*The most time-consuming part for me was having to add the Player 2 feature. This is because the code I originally had was playing with a CPU, so I essentially had to rework a lot of the base code. Funnily enough, it was not as hard of a concept as I made it out to be, because the computer commands were also so complicated.*
+    \item In retrospect, how could you have worked more efficiently
+*I should have utilized Chat GPT more earlier on. There is a reason it is good at coding and once I got the hang of prompting it, it was super easy to continuously iterate my code until I had the desired output.* 
+    \item What libraries/starter codes were most useful? To what extent did you need to modify them?
+*For me, I did not have to use that many libraries. Just a library for adding random components. However, Geek4Geek had a great starting code for this project that was easy to track and modify. My code now looks very different than it did at the beginning because I only kept the text-based questions and the turn structure. Both the ships and gameplay got shifted as I worked on the project.*
